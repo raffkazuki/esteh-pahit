@@ -1,0 +1,33 @@
+{
+  "name": "esteh-pahit",
+  "version": "1.0.5",
+  "description": "Create OSS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raffkazuki/esteh-pahit.git"
+  },
+  "keywords": [
+    "tea",
+    "testnet",
+    "npm"
+  ],
+  "author": "raffkazuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raffkazuki/esteh-pahit/issues"
+  },
+  "homepage": "https://github.com/raffkazuki/esteh-pahit#readme",
+  "dependencies": {
+    "daotestnet": "^1.1.2",
+    "dashmail": "^1.0.0",
+    "esteh-pahit": "^1.0.4",
+    "kucing-hitam": "^1.0.3",
+    "pinjam-dulu-seratus": "^1.0.5",
+    "rafftestnet": "^1.0.0",
+    "refftestnet": "^1.1.2"
+  }
+}
